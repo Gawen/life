@@ -1,5 +1,10 @@
 # Changelog
 
+## I just bought OpenGL 1.2 Red Book
+Friday May 03 2002
+
+![OpenGL RedBook 1.2](http://gawen.me/life/images/redbook.jpg)
+
 ## Show HN: GBAB, a compiler to transforms BASIC to C for GameBoy Advance.
 Friday June 08 2001
 
