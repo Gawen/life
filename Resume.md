@@ -4,7 +4,7 @@
 
 Age: 6
 
-Location: [Aubagne, France](https://maps.google.com/maps?q=Aubagne%2C+France)
+Location: [Marseille, France](https://maps.google.com/maps?q=Marseille%2C+France)
 
 ## Free time
 * Theater
