@@ -2,7 +2,7 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 14
+Age: 15
 
 Location: [Marseille, France](https://maps.google.com/maps?q=Marseille%2C+France)
 
@@ -22,6 +22,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * HTML
 * Javascript
 * Language theory
+* OpenGL 1.2
 * Programming
 * QBasic
 * Visual Basic
