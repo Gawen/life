@@ -1,5 +1,14 @@
 # Changelog
 
+## I just learnt Visual Basic
+Friday February 25 2000
+
+This was a pretty good language to learn. But at that time I didn't know Python yet though...
+
+    Private Sub Life_Load()
+        MsgBox "Hello, World! :-)"
+    End Sub
+
 ## 3.141592654...
 Wednesday July 15 1998
 

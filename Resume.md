@@ -12,6 +12,7 @@ Nick: Scritch
 * Electronic
 * Programming
 * QBasic
+* Visual Basic
 
 ## Free time
 * Mathematics
