@@ -240,3 +240,6 @@ Wednesday September 02 1987
 
 :-)
 
+# Useful links
+* [Best search engine ever](http://www.altavista.com/)
+* [When I'm lost on the Internet](http://www.perdu.com/)
