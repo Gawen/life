@@ -1,5 +1,12 @@
 # Changelog
 
+## Too complicated
+Sunday June 15 1997
+
+I discovered that personal projects ... are hard !
+
+Maybe later Conex !
+
 ## RTFM
 Saturday June 14 1997
 
