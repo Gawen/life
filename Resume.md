@@ -17,6 +17,8 @@ Saturday January 17 2004 to now
 ### Developer on WaterQuest
 Sunday May 04 2003 to now
 
+[WaterQuest website](http://web.archive.org/web/20050406163950/http://www.waterquest.fr.st/)
+
 ### Administrator of Games Creators Network
 Thursday June 20 2002 to now
 
