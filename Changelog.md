@@ -1,5 +1,10 @@
 # Changelog
 
+## I just bought OpenGL 1.2 Red Book
+Friday May 03 2002
+
+![OpenGL RedBook 1.2](http://gawen.me/life/images/redbook.jpg)
+
 ## Show HN: GBAB, a compiler to transforms BASIC to C for GameBoy Advance.
 Friday June 08 2001
 
@@ -260,3 +265,7 @@ Wednesday September 02 1987
 * [DevKitAdv for GameBoy Advance](http://devkitadv.sourceforge.net/)
 * [Best search engine ever](http://www.altavista.com/)
 * [When I'm lost on the Internet](http://www.perdu.com/)
+* [SilverCoders](http://www.silvercoders.fr.st/)
+* [WaterQuest Website](http://web.archive.org/web/20050406163950/http://www.waterquest.fr.st/)
+* [Dream in Progress old website](http://web.archive.org/web/20050208074646/http://www.zonealta.net/~GawenA/)
+* [Dream in Progress Official annonce](http://www.journal-officiel.gouv.fr/association/index.php?ACTION=Rechercher&HI_PAGE=1&HI_COMPTEUR=0&original_method=get&WHAT=dream+in+progress&JTH_ID=&JAN_BD_CP=&JRE_ID=Provence-Alpes-C%F4te-d%27Azur%2FBouches-du-Rhone&JAN_LIEU_DECL=Prefecture%2Fbouchesrh%F4ne&JTY_ID=&JTY_WALDEC=&JTY_SIREN=&JPA_D_D=07%2F02%2F2004&JPA_D_F=07%2F02%2F2004&rechercher.x=37&rechercher.y=10)
