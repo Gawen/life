@@ -1,5 +1,12 @@
 # Changelog
 
+## V = R * I
+Thursday April 04 1996
+
+It was like normal afternoon children activities, like sports, but here for sciences.
+
+Some great guys explained me how works a resistor, transistor, ... These was awesome times. I went there every Wednesday afternoon for several years.
+
 ## OK, so variables and instructions are actually english words
 Friday July 28 1995
 
