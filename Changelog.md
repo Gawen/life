@@ -1,5 +1,38 @@
 # Changelog
 
+## RTFM
+Saturday June 14 1997
+
+This 
+
+![Page 1](http://gawen.me/life/docs/conex/page_1.jpg)
+
+Réseau Privé
+
+(Adresse:)
+
+**********
+
+**********
+
+**********
+
+Inventor:
+* Last name: ARAB (old) (wrong)
+* ARAB-LAFFON
+* First name: Gawen
+* Birthday: 09/02/1987
+
+![Page 2](http://gawen.me/life/docs/conex/page_2.jpg)
+
+![Page 3](http://gawen.me/life/docs/conex/page_3.jpg)
+
+![Page 4](http://gawen.me/life/docs/conex/page_4.jpg)
+
+![Page 4](http://gawen.me/life/docs/conex/page_5.jpg)
+
+(I don't translate it, I honestly barely understand what I did :))
+
 ## With 3 sounds, I can make computers talk with each other
 Friday June 13 1997
 
