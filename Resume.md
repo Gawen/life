@@ -6,6 +6,10 @@ Age: 7
 
 Location: [Marseille, France](https://maps.google.com/maps?q=Marseille%2C+France)
 
+## Skills
+* Programming
+* QBasic
+
 ## Free time
 * Theater
 

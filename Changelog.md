@@ -1,5 +1,20 @@
 # Changelog
 
+## OK, so variables and instructions are actually english words
+Friday July 28 1995
+
+There is this program I can access through the DOS named ``QBasic``.
+
+And actually it looks like the same than the Mupy. But there, variables and instructions are no longer numbers and images but English words.
+
+My very first program:
+
+    10 INPUT A
+    20 INPUT B
+    30 PRINT A+B
+
+You can use this code, I licensed it under the MIT license. (You're welcome)
+
 ## Hey honey, I found this computer, it will teach you how to program
 Sunday April 09 1995
 
