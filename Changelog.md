@@ -1,5 +1,66 @@
 # Changelog
 
+## Too complicated
+Sunday June 15 1997
+
+I discovered that personal projects ... are hard !
+
+Maybe later Conex !
+
+## RTFM
+Saturday June 14 1997
+
+This 
+
+![Page 1](http://gawen.me/life/docs/conex/page_1.jpg)
+
+Réseau Privé
+
+(Adresse:)
+
+**********
+
+**********
+
+**********
+
+Inventor:
+* Last name: ARAB (old) (wrong)
+* ARAB-LAFFON
+* First name: Gawen
+* Birthday: 09/02/1987
+
+![Page 2](http://gawen.me/life/docs/conex/page_2.jpg)
+
+![Page 3](http://gawen.me/life/docs/conex/page_3.jpg)
+
+![Page 4](http://gawen.me/life/docs/conex/page_4.jpg)
+
+![Page 4](http://gawen.me/life/docs/conex/page_5.jpg)
+
+(I don't translate it, I honestly barely understand what I did :))
+
+## With 3 sounds, I can make computers talk with each other
+Friday June 13 1997
+
+I knew some computers could talk with each other over phone lines. I already heard the sound passing through the phone line (I don't remember how because I didn't have any modem that time). But I knew this noise was probably the data.
+
+R2-D2 was doing simpler sounds to talk with C3PO though. In my electronic club, they told me how to generate such sounds (sine waves) and how to detect them. So I thought I could build a R2-D2-like modem.
+
+But I asked myself : "how many sounds do I need ?" ("How many signals do I need to transmit data between two computers".)
+
+And after a lot of thought, Eureka, my answer is 3.
+
+Why ?
+
+I can't remember. That's what I read from my manual, but I don't understand what I wrote.
+
+Actually I kind of realized I had to send something like a clock through the line to make the receiver distingish each bit. That would mean I'd need 2 bits : one for the data, and one for the clock. That'd mean 4 sounds (one for 00, 01, 10 and 11).
+
+But for some reason I decided it was 3, and even now I can't understand my manuals when I try to explain why. 3 is actually a good answer because it is possible for each bit send to change the sound and so avoid the fact the receiver will confuse two bits in one. But the decoding is kind of complex, requires graph theory, and I seriously don't think I got that at that age.
+
+So if anybody understands why I tried to do this, please comment! :-)
+
 ## My first political virus
 Tuesday May 27 1997
 
