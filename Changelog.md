@@ -1,5 +1,38 @@
 # Changelog
 
+## 3.141592654...
+Wednesday July 15 1998
+
+My mother took me to [Palais de la Découverte](http://www.palais-decouverte.fr/) and [this room amazed me](http://www.palais-decouverte.fr/index.php?id=824].
+
+I read that the number Pi is great. I only knew it makes us able to calculate the length of a circle given its radius. And I don't know why but I was fascinated.
+
+Probably because Pi cannot be calculated with a multiplication or a division or something. I thought maybe with a square root, but I tried to power-two it but the number is not simple either.
+
+So I searched a way to calculate it.
+
+My first reflex was to project a circle over a set of contiguous and length-constant lines, like this
+
+![Circle in a set of lines](http://gawen.me/life/images/pi_circle.jpg)
+
+If I could transform a circle in 12 little lines like the ones in red, and I calculated the length of one of these lines, I could add an approximation of Pi by multiplying its length by 12.
+
+And the more I added lines, the more I would have a better approximation of Pi.
+
+So I asked one of my friend's mother who were a Math teacher how to calculate the length, and she gives me the [Al-Kashi Formula](http://en.wikipedia.org/wiki/Law_of_cosines).
+
+When applied to my schema, with a lot of help from my mother, it gives something like
+
+![Pi Formula](http://gawen.me/life/images/pi_formula.gif)
+
+If S = 500, it gives the first 4 digits right.
+
+The funny story about this is I only knew degree angle, and not radian. In radian, 360° would be 2pi. And obviously a formula which needs Pi to calculate Pi is not really ... optimized.
+
+But this is a cool formula to extract Pi from the degree-cosinus implementation of your calculator :)
+
+(I can't find my notes, there are probably lost for ever. So I don't know if this is this exact formula I found. But it's surely something like this.)
+
 ## Too complicated
 Sunday June 15 1997
 
