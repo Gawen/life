@@ -1,5 +1,24 @@
 # Changelog
 
+## Hey honey, I found this computer, it will teach you how to program
+Sunday April 09 1995
+
+Once, my mom came back with this weird box from a bric-a-brac sale.
+
+There was a book, and a big calculator with weird keys with numbers and images on them.
+
+The book told me how to create a program to ask the user a number, then an other, and prints the sum. Or other stuffs like that.
+
+![mupy](http://gawen.me/life/images/mupy_pic.jpg)
+
+Later, I understood this was actually a computer for children, with a very simple BASIC interpreter inside, based on a 4 bits microcontroller. It was aimed to learn children how to program. This toy was built in 1985 by a French company.
+
+Unfortunately I lost this precious object. I'm looking actively to get a new one.
+
+This definitely started my geek life.
+
+Link: [French Silicium Article](http://www.silicium.org/site/index.php?option=com_content&view=article&id=136:info-realite-mupy&catid=40:france&Itemid=29)
+
 ## My first tutorial
 Thursday November 17 1994
 
