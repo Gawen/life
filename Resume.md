@@ -9,6 +9,9 @@ Location: [Marseille, France](https://maps.google.com/maps?q=Marseille%2C+France
 Nick: SilverEleven
 
 ## Experiences
+### Developer on WaterQuest
+Sunday May 04 2003 to now
+
 ### Administrator of Games Creators Network
 Thursday June 20 2002 to now
 
@@ -23,9 +26,12 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Javascript
 * Language theory
 * OpenGL 1.2
+* Physics Engine (OpenDE, Tokamak)
 * Programming
 * QBasic
+* SDL
 * Visual Basic
+* x86 Assembler
 
 ## Free time
 * Mathematics
