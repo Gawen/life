@@ -1,5 +1,58 @@
 # Changelog
 
+## My first political virus
+Tuesday May 27 1997
+
+There is this French politician named "Le Pen" who prefers to spread hatred between peoples than peace and cooperation. And as my familly is pretty politically engaged and my father-side family is from Algeria, I decided to create the most powerful and anti-racist computer Virus ever existed : a Virus which will print "Le Pen is a big c***" when the computer starts.
+
+Here some notes I wrote about this powerful Virus (in **QBasic** !).
+
+![Page 1](http://gawen.me/life/tutorials/lepen/page_1.jpg)
+
+Virus: Le Pen
+
+1 Its role.
+
+It won't do any anomaly on the computer it will reside on.
+It'll put in ``AUTOEXEC.BAT`` one line which will prints: "LE PEN IS A BIG C***".
+
+2 How it does it ?
+
+It'll add in ``AUTOEXEC.BAT`` some lines which will be :
+
+    CLS
+    ECHO .  <-- (10 times)
+    ECHO LE PEN IS A BIG C*** (or NINNY)
+    ECHO .  <-- (9 times)
+    PAUSE
+    CLS
+
+
+NB: I was a bit ashamed to have used the C-word, so I replaced it by 'ninny' in case my parents read my book.
+
+![Page 2](http://gawen.me/life/tutorials/lepen/page_2.jpg)
+
+The silent install program
+
+    10 OPEN "C:/AUTOEXEC.BAT" FOR INPUT AS #1
+    20 OPEN "C:/AUTOEXE1.BAT" FOR OUTPUT AS #2
+    30 INPUT #1, A$
+    40 IF EOF(1) THEN GOTO 70
+    50 PRINT #2, A$
+    60 GOTO 30
+    70 FOR A = 1 TO 5
+    80 PRINT #2, "ECHO "
+    90 NEXT A
+    100 PRINT #2, "ECHO LE PEN IS A BIG ****"
+    110 CLOSE #1
+    120 CLOSE #2
+    130 END
+
+
+Sorry, the code is not indented.
+
+Please use at your own risk. This could damage your computer irremediably!
+
 ## V = R * I
 Thursday April 04 1996
 
