@@ -12,6 +12,7 @@ Nick: Scritch
 * C
 * Electronic
 * Embedded C
+* Language theory
 * Programming
 * QBasic
 * Visual Basic

@@ -1,5 +1,12 @@
 # Changelog
 
+## Show HN: GBAB, a compiler to transforms BASIC to C for GameBoy Advance.
+Friday June 08 2001
+
+But unfortunately, I don't have the source anymore. I'm actively looking for it in my old hard-drives. But I think it's definitely lost.
+
+The probable only remaining sign on earth of GBAB is scratched on a wood table, in a natural park of Oregon, USA. I went there with my American host family I stayed with for 1 month in August 2001. I explained how it worked, probably because I was bored.
+
 ## I just learnt Visual Basic
 Friday February 25 2000
 
