@@ -262,6 +262,8 @@ Wednesday September 02 1987
 :-)
 
 # Useful links
+* [Dream in Progress old website](http://web.archive.org/web/20050208074646/http://www.zonealta.net/~GawenA/)
+* [Dream in Progress Official annonce](http://www.journal-officiel.gouv.fr/association/index.php?ACTION=Rechercher&HI_PAGE=1&HI_COMPTEUR=0&original_method=get&WHAT=dream+in+progress&JTH_ID=&JAN_BD_CP=&JRE_ID=Provence-Alpes-C%F4te-d%27Azur%2FBouches-du-Rhone&JAN_LIEU_DECL=Prefecture%2Fbouchesrh%F4ne&JTY_ID=&JTY_WALDEC=&JTY_SIREN=&JPA_D_D=07%2F02%2F2004&JPA_D_F=07%2F02%2F2004&rechercher.x=37&rechercher.y=10)
 * [SilverCoders](http://www.silvercoders.fr.st/)
 * [DevKitAdv for GameBoy Advance](http://devkitadv.sourceforge.net/)
 * [Best search engine ever](http://www.altavista.com/)
