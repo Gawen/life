@@ -1,5 +1,28 @@
 # Changelog
 
+## I'm 37th of Prologin with only 50% of my code.
+Sunday April 24 2005
+
+I've always discovered programming and worked on projects on my own. I spent a lot of time on the [Games Creators Network's IRC channel](irc://irc.langochat.net:6667/gcn) talking about my passion with other geeks though, but I've never met real ones IRL.
+
+So I decided to do [Prologin 2005](http://prologin.org/) which is a National French & Belgian contest, organized by [EPITA](http://epita.fr/), where people under 18 has to solve algorithmic problems. This was done in three steps : Pre-selection, Semi-Finale, and Finale. I succeeded the first two steps and went to the [Finale, in Paris](http://www.prologin.org/gallery/Prologin%202005,Finale).
+
+We were something like 100 people there, and this was great to finally meet people I talked with over the Internet. Well, we were **really** the perfect stereotype of the White'n'Nerdy, but it was fun and I enjoyed.
+
+![White'N'Nerdy](http://www.prologin.org/files/photos/Prologin%202005/Finale/100_2295.jpg)
+
+The final subject was to create an AI robot whose goal is to (1) build hotels to gain money and (2) fight against other players' bot in a 2D virtual world. The winner is the one which builds most hotels or the last survivor.
+
+![Hatamis-Maun playground](http://www.prologin.org/files/photos/Prologin%202005/Finale/100_2291.jpg)
+
+The contest lasted 36h non-stop. Pretty intense uh. Especially when 1h before the end, power shutdowned for no reason and a lot of work were lost. I got back only 50% of my work, and too pissed off to fix it, I just send it in the state.
+
+![Power shutdown](http://www.prologin.org/files/photos/Prologin%202005/Finale/l102.jpg)
+
+I finally finished 37th of the contest, and met a lot of great people there I'm still in contact with.
+
+[Video of Prologin 2005](http://www.dailymotion.com/video/xayhro_prologin2005_tech)
+
 ## I just bought OpenGL 1.2 Red Book
 Friday May 03 2002
 
@@ -262,6 +285,7 @@ Wednesday September 02 1987
 :-)
 
 # Useful links
+* [Prologin 2005](http://www.prologin.org/archives/2005/finale)
 * [DevKitAdv for GameBoy Advance](http://devkitadv.sourceforge.net/)
 * [Best search engine ever](http://www.altavista.com/)
 * [When I'm lost on the Internet](http://www.perdu.com/)

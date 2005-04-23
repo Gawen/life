@@ -6,8 +6,6 @@ Age: 17
 
 Location: [Marseille, France](https://maps.google.com/maps?q=Marseille%2C+France)
 
-Nick: SilverEleven
-
 ## Experiences
 ### Technical advisor of Dream in Progress
 Saturday January 17 2004 to Friday November 25 2005
