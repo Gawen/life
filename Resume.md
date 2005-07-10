@@ -6,6 +6,10 @@ Age: 17
 
 Location: [Marseille, France](https://maps.google.com/maps?q=Marseille%2C+France)
 
+## Educations
+### Baccalaureat (Math Spe / Climbing sport) with Honours
+Monday July 11 2005 to now
+
 ## Experiences
 ### Technical advisor of Dream in Progress
 Saturday January 17 2004 to Friday November 25 2005
@@ -42,4 +46,5 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 ## Free time
 * Mathematics
 * Theater
+* Climbing
 
