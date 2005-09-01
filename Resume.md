@@ -2,11 +2,16 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 17
+Age: 18
 
 Location: [Marseille, France](https://maps.google.com/maps?q=Marseille%2C+France)
 
 ## Educations
+### Classes Preparatoires Math. Sup / Math. Spe
+Friday September 02 2005 to now
+
+The classes preparatoires are a kind of special training courses of 2 years. This is, I quote, "a post-secondary preparatory school / classes preparing for entrance examinations to the French Grandes Ecoles. The preparation for the entrance examinations to the French Grandes Ecoles begins after a student has obtained a Baccalaureat diploma (equivalent of A-levels in Britain, marks the end of high-school education and qualifies a student to enter university)."
+
 ### Baccalaureat (Math Spe / Climbing sport) with Honours
 Monday July 11 2005 to now
 
@@ -35,7 +40,9 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * HTML
 * Javascript
 * Language theory
+* Mathematics
 * OpenGL 1.2
+* Physics
 * Physics Engine (OpenDE, Tokamak)
 * Programming
 * QBasic
