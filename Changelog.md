@@ -1,5 +1,10 @@
 # Changelog
 
+## OK I'm a no-life
+Saturday September 02 2006
+
+Prepa is hard. I've done nothing except Math & Physics for 1 year.
+
 ## I'm 37th of Prologin with only 50% of my code.
 Sunday April 24 2005
 
