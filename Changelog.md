@@ -62,6 +62,13 @@ This morning was a pivot of my life.
 
 (This article had been written few years ago on my old-and-now-offline blog)
 
+## I was so stressed I hacked the backend of one of the school I was pretending to to know in what position I was
+Wednesday August 01 2007
+
+And this is how I learned Python !
+
+(OK I'm not proud...)
+
 ## I'm 37th of Prologin with only 50% of my code.
 Sunday April 24 2005
 

@@ -45,6 +45,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Physics
 * Physics Engine (OpenDE, Tokamak)
 * Programming
+* Python
 * QBasic
 * SDL
 * Visual Basic
