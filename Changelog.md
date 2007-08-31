@@ -1,5 +1,67 @@
 # Changelog
 
+## The unfair pivot of my student life
+Saturday September 01 2007
+
+During entrance examination, there is one special test named [TIPE](http://www.scei-concours.fr/), épreuve commune d’évaluation des Travaux d’Initiative Personnelle Encadrés. This is an oral presentation about a scientific problematic I chose and I studied for one year.
+
+I decided to study [sorting algorithms](http://en.wikipedia.org/wiki/Sorting_algorithm). Because there are ones of the most fundamental algorithms in computer science, and because there is not a best solution for all cases, they fascinated me and I wanted to know more about them.
+
+I bought the reference's bible, [The Art of Programming](http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) Volume 3 of [Donald Knuth](http://www-cs-faculty.stanford.edu/~uno/), and I based my work on his work.
+
+Then I decided to create some kind of Virtual Machine dedicated to execute sorting algorithms to automatically generate statistics about them: read and write's count, memory usage, operation's count, time of execution, ... And this for thousands of unsorted data set. I deduced of these informations very precise empirical time and memory complexities for different kind of set: best case, worst, medium, random cases...
+
+I had a lot of fun studying them. My prépa's teachers told me it was good work. I was definitely ready for the examination.
+
+One morning, in the [University Paris 5, René Descartes](http://www.univ-paris5.fr/), I began to present my work to two professors. The weren't listening. One was reading a newspaper and the other was playing with his pen.
+
+But I did not care, because we are trained for this kind of situation. So I continued without being destabilized. I showed everything I had: code sources, complexities plots and formula for each algorithm. And it was good.
+
+I was presenting the [quicksort algorithm](http://en.wikipedia.org/wiki/Quicksort), the final one of my presentation. I explained its concept of "[pivot](http://en.wikipedia.org/wiki/Quicksort#Formal_analysis)" and so how it can be perfectly [parallelizable](http://en.wikipedia.org/wiki/Quicksort#Parallelization).
+
+The pen's player professor then asked me
+
+    Excuse me, how can you say it is parallelizable over several computers whereas we need at each step all the set of data ?
+
+So I re-explained the concept of pivot. Still not understanding. I gave an example. Fail again...
+
+    OK, you seem to do not know what you're talking about. Let's continue...
+
+Fair enough, that is the game. I stayed focus.
+
+And it follows a flood of weirds questions. The newspaper's guy asked me some which definitely proved he wasn't listening. Then I realized they did not understand the problematic. Maybe because I did not explain it well, but I suppose mainly because they just did not care : one were a biologic highscool's teacher, and the other a physicist. The assignement of teachers for my TIPE examination was wrong.
+
+I was starting to be furious. But poker-face.
+
+Then, they finished me.
+
+    With what tool did you generate your plots ?
+
+Read "You are a cheater, I want to know you did not generate yourself these plots.". I was K.O. I can remember the all discussion.
+
+    - Well, [gnuplot](http://www.gnuplot.info/)
+    - How did you generate them ?
+    - Sorry ?
+    - What did you do on gnuplot to generate these plots ?
+    - I'm sorry the last time I used it was two months ago before the beginning of my examinations. I can't remember.
+    - Oh yeah ... You **can't** remember.
+    - Well, I made a shell script which were calling gnuplot with the good parameters.
+    - And how did you scale your plots ?
+    - I can't remember.
+    - Sure.
+    - I think it's something like blablabla
+    - Of course... You **think**...
+
+They thought I was a liar. I had a F.
+
+This exmaination was emilinatory.
+
+I could not access to French public schools because of this. Because I could not remember how to scale a plot in gnuplot. Because I could not explain what is a pivot.
+
+This morning was a pivot of my life.
+
+(This article had been written few years ago on my old-and-now-offline blog)
+
 ## I'm 37th of Prologin with only 50% of my code.
 Sunday April 24 2005
 
