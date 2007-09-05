@@ -2,13 +2,16 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 19
+Age: 20
 
-Location: [Marseille, France](https://maps.google.com/maps?q=Marseille%2C+France)
+Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
+### Ecole Centrale d'Electronique @ Paris
+Thursday September 06 2007 to now
+
 ### Classes Preparatoires Math. Sup / Math. Spe
-Friday September 02 2005 to now
+Friday September 02 2005 to Thursday September 06 2007
 
 The classes preparatoires are a kind of special training courses of 2 years. This is, I quote, "a post-secondary preparatory school / classes preparing for entrance examinations to the French Grandes Ecoles. The preparation for the entrance examinations to the French Grandes Ecoles begins after a student has obtained a Baccalaureat diploma (equivalent of A-levels in Britain, marks the end of high-school education and qualifies a student to enter university)."
 
