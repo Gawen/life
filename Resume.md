@@ -19,6 +19,13 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Developer @ Uacari
+Friday September 21 2007 to Friday February 08 2008
+
+Advise about technical choices while the company was boostraping. Official Nintendo developer on GameBoy Advance & Gameboy DS. Developed a OTA bootstraper for Gameboy DS.
+
+And by the way, Linux On DS rocks!
+
 ### Technical advisor of Dream in Progress
 Saturday January 17 2004 to Friday November 25 2005
 

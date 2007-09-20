@@ -354,6 +354,8 @@ Wednesday September 02 1987
 :-)
 
 # Useful links
+* [LinkedIn](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
+* [Uacari](http://www.linkedin.com/company/uacari)
 * [ECE Paris](http://www.ece.fr/)
 * [Le leopard casque](http://le.leopard.casque.free.fr/)
 * [Prologin 2005](http://www.prologin.org/archives/2005/finale)
