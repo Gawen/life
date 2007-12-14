@@ -19,6 +19,16 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Association Departement Chief & Vice-President of 'Fresh' student council
+Saturday December 15 2007 to now
+
+Organization and promotion of the huge associative ecosystem of my engineer school:
+* Networking event organization
+* Third-party advisor for inter-association project (budget, logistic, ...)
+
+[Vote result](http://jbtv-galerie.ece.fr/2007-2008/R%C3%A9sultats-Des-Elections/15694254_bBgnRP#!i=1176337681&k=TH5z6SC)
+[Fresh Party Rock](http://jbtv-galerie.ece.fr/2007-2008/Soir%C3%A9e-Fresh/15694288_wt4jZd#!i=1176339711&k=cV9k5KW)
+
 ### Technical advisor of Dream in Progress
 Saturday January 17 2004 to Friday November 25 2005
 
@@ -43,6 +53,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * HTML
 * Javascript
 * Language theory
+* Management
 * Mathematics
 * OpenGL 1.2
 * Physics
