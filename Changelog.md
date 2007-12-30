@@ -354,6 +354,7 @@ Wednesday September 02 1987
 :-)
 
 # Useful links
+* [Junior Entreprise of ECE](http://jeece.fr/)
 * [LinkedIn](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 * [Uacari](http://www.linkedin.com/company/uacari)
 * [ECE Paris](http://www.ece.fr/)

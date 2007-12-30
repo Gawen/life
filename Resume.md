@@ -45,6 +45,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * C
 * C++
 * CSS
+* Commercial contact
 * Electronic
 * Embedded C
 * HTML
