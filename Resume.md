@@ -19,6 +19,15 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Developer @ PlayMedia
+Tuesday March 04 2008 to now
+
+[Playmedia](http://playmedia.fr) is a startup which created [PlayTV](http://playtv.fr/), the first legal website which broadcasts French television channels online.
+
+Developed service's backend.
+* Distributed video (H.264) and audio (AAC+) encoding framework.
+* Benchmark on different solution to broadcast HD multimedia streams over the Internet.
+
 ### Developer @ Uacari
 Friday September 21 2007 to Friday February 08 2008
 
@@ -52,13 +61,16 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Javascript
 * Language theory
 * Mathematics
+* Multi-node systems
 * OpenGL 1.2
 * Physics
 * Physics Engine (OpenDE, Tokamak)
 * Programming
 * Python
 * QBasic
+* Ruby
 * SDL
+* Video manipulation
 * Visual Basic
 * x86 Assembler
 
