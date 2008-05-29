@@ -19,6 +19,12 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### System Developer @ Wyplay
+Friday May 30 2008 to now
+
+Worked on Wyplay setup box's software stack.
+* Developed a self-learning software solution to control silently processor cooling fan.
+
 ### Association Departement Chief & Vice-President of 'Fresh' student council
 Saturday December 15 2007 to now
 
@@ -50,9 +56,11 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * CSS
 * Electronic
 * Embedded C
+* Embedded Linux
 * HTML
 * Javascript
 * Language theory
+* Linux
 * Management
 * Mathematics
 * OpenGL 1.2
@@ -62,7 +70,9 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Python
 * QBasic
 * SDL
+* Thermodynamic
 * Visual Basic
+* Work team
 * x86 Assembler
 
 ## Free time
