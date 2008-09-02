@@ -2,13 +2,15 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 20
+Age: 21
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
 ### Ecole Centrale d'Electronique @ Paris
 Thursday September 06 2007 to now
+
+Embedded Systems speciality
 
 ### Classes Preparatoires Math. Sup / Math. Spe
 Friday September 02 2005 to Thursday September 06 2007
@@ -20,7 +22,7 @@ Monday July 11 2005 to now
 
 ## Experiences
 ### System Developer @ Wyplay
-Friday May 30 2008 to now
+Friday May 30 2008 to Wednesday September 03 2008
 
 Worked on Wyplay setup box's software stack.
 * Developed a self-learning software solution to control silently processor cooling fan.
