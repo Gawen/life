@@ -2,13 +2,15 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 20
+Age: 21
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
 ### Ecole Centrale d'Electronique @ Paris
 Thursday September 06 2007 to now
+
+Embedded Systems speciality
 
 ### Classes Preparatoires Math. Sup / Math. Spe
 Friday September 02 2005 to Thursday September 06 2007
@@ -19,6 +21,22 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### System Developer @ Wyplay
+Friday May 30 2008 to Wednesday September 03 2008
+
+Worked on Wyplay setup box's software stack.
+* Developed a self-learning software solution to control silently processor cooling fan.
+
+### Association Departement Chief & Vice-President of 'Fresh' student council
+Saturday December 15 2007 to now
+
+Organization and promotion of the huge associative ecosystem of my engineer school:
+* Networking event organization
+* Third-party advisor for inter-association project (budget, logistic, ...)
+
+[Vote result](http://jbtv-galerie.ece.fr/2007-2008/R%C3%A9sultats-Des-Elections/15694254_bBgnRP#!i=1176337681&k=TH5z6SC)
+[Fresh Party Rock](http://jbtv-galerie.ece.fr/2007-2008/Soir%C3%A9e-Fresh/15694288_wt4jZd#!i=1176339711&k=cV9k5KW)
+
 ### Developer @ Uacari
 Friday September 21 2007 to Friday February 08 2008
 
@@ -48,9 +66,12 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Commercial contact
 * Electronic
 * Embedded C
+* Embedded Linux
 * HTML
 * Javascript
 * Language theory
+* Linux
+* Management
 * Mathematics
 * OpenGL 1.2
 * Physics
@@ -59,7 +80,9 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Python
 * QBasic
 * SDL
+* Thermodynamic
 * Visual Basic
+* Work team
 * x86 Assembler
 
 ## Free time
