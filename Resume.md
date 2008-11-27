@@ -27,6 +27,15 @@ Friday May 30 2008 to Wednesday September 03 2008
 Worked on Wyplay setup box's software stack.
 * Developed a self-learning software solution to control silently processor cooling fan.
 
+### Developer @ PlayMedia
+Tuesday March 04 2008 to Friday November 28 2008
+
+[Playmedia](http://playmedia.fr) is a startup which created [PlayTV](http://playtv.fr/), the first legal website which broadcasts French television channels online.
+
+Developed service's backend.
+* Distributed video (H.264) and audio (AAC+) encoding framework.
+* Benchmark on different solution to broadcast HD multimedia streams over the Internet.
+
 ### Association Departement Chief & Vice-President of 'Fresh' student council
 Saturday December 15 2007 to now
 
@@ -73,14 +82,17 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Linux
 * Management
 * Mathematics
+* Multi-node systems
 * OpenGL 1.2
 * Physics
 * Physics Engine (OpenDE, Tokamak)
 * Programming
 * Python
 * QBasic
+* Ruby
 * SDL
 * Thermodynamic
+* Video manipulation
 * Visual Basic
 * Work team
 * x86 Assembler
