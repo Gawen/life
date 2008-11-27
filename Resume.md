@@ -2,7 +2,7 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 20
+Age: 21
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
@@ -20,7 +20,7 @@ Monday July 11 2005 to now
 
 ## Experiences
 ### Developer @ PlayMedia
-Tuesday March 04 2008 to now
+Tuesday March 04 2008 to Friday November 28 2008
 
 [Playmedia](http://playmedia.fr) is a startup which created [PlayTV](http://playtv.fr/), the first legal website which broadcasts French television channels online.
 
