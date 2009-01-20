@@ -21,6 +21,11 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Developer @ Majority Report
+Wednesday January 21 2009 to now
+
+[Website](http://www.majority-report.com/)
+
 ### System Developer @ Wyplay
 Friday May 30 2008 to Wednesday September 03 2008
 
