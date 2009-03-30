@@ -1,5 +1,10 @@
 # Changelog
 
+## Distributed raytracer for multimedia courses
+Tuesday March 31 2009
+
+[Youtube: YADRT, Yet Another Distributed Ray Tracer](http://youtu.be/uXNzkKgHyKg)
+
 ## The unfair pivot of my student life
 Saturday September 01 2007
 
