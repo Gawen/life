@@ -21,6 +21,18 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Developer @ Majority Report
+Wednesday January 21 2009 to Saturday August 01 2009
+
+[Website](http://www.majority-report.com/)
+Radar to geo-locate Bluetooth devices in a large area as a supermarket to study consumers movement & behavior.
+
+* Analysis of Bluetooth protocol, from physical to software layers
+* Bluetooth hacking analysis
+* VHDL logical design on PCI-Express extension card ([PLDA](http://www.plda.com/index.php))
+* Linux drivers development for different devices: PCI-Express card, I2C, EEPROM and custom hardware.
+
+
 ### System Developer @ Wyplay
 Friday May 30 2008 to Wednesday September 03 2008
 
@@ -69,6 +81,7 @@ Thursday June 20 2002 to now
 The [Games Creators Network](http://www.games-creators.org/) is a French association and website which promotes and helps amateur video games providing a set of tutorials and a strong IRC community to teach people how to create simple games.
 
 ## Skills
+* Bluetooth Protocol Layer 1-4
 * C
 * C++
 * CSS
@@ -80,18 +93,24 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Javascript
 * Language theory
 * Linux
+* Linux Driver
+* Linux Kernel
 * Management
 * Mathematics
 * Multi-node systems
 * OpenGL 1.2
+* PCI Express protocol
 * Physics
 * Physics Engine (OpenDE, Tokamak)
 * Programming
 * Python
 * QBasic
+* Real-time Linux
 * Ruby
 * SDL
 * Thermodynamic
+* VHDL
+* VIM rules! EMacs suck!
 * Video manipulation
 * Visual Basic
 * Work team
