@@ -2,11 +2,14 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 22
+Age: 21
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
+### UC Irvine Management & Global Manufacturing Summer Courses
+Monday August 24 2009 to Saturday September 12 2009
+
 ### Ecole Centrale d'Electronique @ Paris
 Thursday September 06 2007 to now
 
@@ -28,7 +31,7 @@ Worked on Wyplay setup box's software stack.
 * Developed a self-learning software solution to control silently processor cooling fan.
 
 ### Association Departement Chief & Vice-President of 'Fresh' student council
-Saturday December 15 2007 to now
+Saturday December 15 2007 to Wednesday April 08 2009
 
 Organization and promotion of the huge associative ecosystem of my engineer school:
 * Networking event organization

@@ -5,6 +5,11 @@ Friday November 06 2009
 
 [Youtube: Paris Warzone, Android game](http://youtu.be/YpJRWoA6WDM)
 
+## UC Irvine Summer Courses
+Monday August 24 2009
+
+[Some crazy dance in San Francisco](http://www.youtube.com/watch?v=gu5RUgplOxo). Good times.
+
 ## Distributed raytracer for multimedia courses
 Tuesday March 31 2009
 
