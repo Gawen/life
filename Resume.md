@@ -2,7 +2,7 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 21
+Age: 22
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
@@ -13,7 +13,7 @@ Monday August 24 2009 to Saturday September 12 2009
 ### Ecole Centrale d'Electronique @ Paris
 Thursday September 06 2007 to now
 
-Embedded Systems speciality
+Embedded System Expertise
 
 ### Classes Preparatoires Math. Sup / Math. Spe
 Friday September 02 2005 to Thursday September 06 2007
@@ -56,6 +56,7 @@ Thursday June 20 2002 to now
 The [Games Creators Network](http://www.games-creators.org/) is a French association and website which promotes and helps amateur video games providing a set of tutorials and a strong IRC community to teach people how to create simple games.
 
 ## Skills
+* Artificial Intelligence
 * C
 * C++
 * CSS
@@ -74,6 +75,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Programming
 * Python
 * QBasic
+* Robotic
 * SDL
 * Thermodynamic
 * Visual Basic
