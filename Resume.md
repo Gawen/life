@@ -2,15 +2,18 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 21
+Age: 22
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
+### UC Irvine Management & Global Manufacturing Summer Courses
+Monday August 24 2009 to Saturday September 12 2009
+
 ### Ecole Centrale d'Electronique @ Paris
 Thursday September 06 2007 to now
 
-Embedded Systems speciality
+Embedded System Expertise
 
 ### Classes Preparatoires Math. Sup / Math. Spe
 Friday September 02 2005 to Thursday September 06 2007
@@ -49,7 +52,7 @@ Developed service's backend.
 * Benchmark on different solution to broadcast HD multimedia streams over the Internet.
 
 ### Association Departement Chief & Vice-President of 'Fresh' student council
-Saturday December 15 2007 to now
+Saturday December 15 2007 to Wednesday April 08 2009
 
 Organization and promotion of the huge associative ecosystem of my engineer school:
 * Networking event organization
@@ -81,6 +84,7 @@ Thursday June 20 2002 to now
 The [Games Creators Network](http://www.games-creators.org/) is a French association and website which promotes and helps amateur video games providing a set of tutorials and a strong IRC community to teach people how to create simple games.
 
 ## Skills
+* Artificial Intelligence
 * Bluetooth Protocol Layer 1-4
 * C
 * C++
@@ -106,6 +110,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Python
 * QBasic
 * Real-time Linux
+* Robotic
 * Ruby
 * SDL
 * Thermodynamic

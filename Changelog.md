@@ -1,5 +1,20 @@
 # Changelog
 
+## Paris Warzone, life-size and real-time MMORTG for Android phones
+Friday November 06 2009
+
+[Youtube: Paris Warzone, Android game](http://youtu.be/YpJRWoA6WDM)
+
+## UC Irvine Summer Courses
+Monday August 24 2009
+
+[Some crazy dance in San Francisco](http://www.youtube.com/watch?v=gu5RUgplOxo). Good times.
+
+## Distributed raytracer for multimedia courses
+Tuesday March 31 2009
+
+[Youtube: YADRT, Yet Another Distributed Ray Tracer](http://youtu.be/uXNzkKgHyKg)
+
 ## The unfair pivot of my student life
 Saturday September 01 2007
 
