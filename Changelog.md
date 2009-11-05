@@ -1,5 +1,10 @@
 # Changelog
 
+## Paris Warzone, life-size and real-time MMORTG for Android phones
+Friday November 06 2009
+
+[Youtube: Paris Warzone, Android game](http://youtu.be/YpJRWoA6WDM)
+
 ## Distributed raytracer for multimedia courses
 Tuesday March 31 2009
 
