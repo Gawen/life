@@ -1,5 +1,12 @@
 # Changelog
 
+## VHDL Web Server
+Friday January 29 2010
+
+Without any CPU. Only some NANDs and some NORs.
+
+[Youtube: VHDL Web Server](http://youtu.be/7syu5EC1OWg)
+
 ## Paris Warzone, life-size and real-time MMORTG for Android phones
 Friday November 06 2009
 
