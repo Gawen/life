@@ -376,6 +376,7 @@ Wednesday September 02 1987
 :-)
 
 # Useful links
+* [Bull](http://www.bull.com/)
 * [ECE Paris](http://www.ece.fr/)
 * [Le leopard casque](http://le.leopard.casque.free.fr/)
 * [Prologin 2005](http://www.prologin.org/archives/2005/finale)

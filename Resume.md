@@ -24,6 +24,14 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Hardware Developer Intern @ Bull
+Monday February 01 2010 to Wednesday September 01 2010
+
+I had to create a SystemRDL-to-Verilog compiler for Bull supercomputers.
+
+* Worked on hardware IP used in top 500 supercomputers built by Bull.
+* Developed a SystemRDL compiler from scratch to automatically generate IP front-controller (http://www.spiritconsortium.org/releases/SystemRDL)
+
 ### System Developer @ Wyplay
 Friday May 30 2008 to Wednesday September 03 2008
 
@@ -64,6 +72,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Embedded C
 * Embedded Linux
 * HTML
+* Intel CPU technology
 * Javascript
 * Language theory
 * Linux
@@ -77,6 +86,8 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * QBasic
 * Robotic
 * SDL
+* Supercomputer Motherboard topology
+* SystemRDL
 * Thermodynamic
 * Visual Basic
 * Work team
