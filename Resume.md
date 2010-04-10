@@ -24,6 +24,9 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### IT & Embedded System Freelancer
+Sunday April 11 2010 to now
+
 ### Developer @ Majority Report
 Wednesday January 21 2009 to Saturday August 01 2009
 
