@@ -27,6 +27,11 @@ Monday July 11 2005 to now
 ### IT & Embedded System Freelancer
 Sunday April 11 2010 to now
 
+### Freelance Back-end Developer @ Kitchbi
+Sunday April 11 2010 to now
+
+[Kitchbi](http://www.kitchbi.com/) is a social network for the family.
+
 ### Developer @ Majority Report
 Wednesday January 21 2009 to Saturday August 01 2009
 
