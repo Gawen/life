@@ -4,7 +4,7 @@
 
 Age: 23
 
-Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
+Location: [London, UK](https://maps.google.com/maps?q=London%2C+UK)
 
 ## Educations
 ### UC Irvine Management & Global Manufacturing Summer Courses
