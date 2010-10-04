@@ -2,7 +2,7 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 22
+Age: 23
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
@@ -24,6 +24,13 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Allmyapps Freelancer
+Tuesday October 05 2010 to now
+
+* Build an expert system which detects new versions of application and help human to integrate them in the Allmyapps' catalogue.
+* Developed an internal tool making able non-tech people to create Web scrapper.
+* Optimization of some company's internal processes developing custom helper tools.
+
 ### IT & Embedded System Freelancer
 Sunday April 11 2010 to now
 
