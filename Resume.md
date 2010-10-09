@@ -2,7 +2,7 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 22
+Age: 23
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
@@ -24,6 +24,9 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Web Technology & Low-level Android Stack teacher @ ECE Paris
+Sunday October 10 2010 to now
+
 ### IT & Embedded System Freelancer
 Sunday April 11 2010 to now
 
@@ -92,6 +95,7 @@ Thursday June 20 2002 to now
 The [Games Creators Network](http://www.games-creators.org/) is a French association and website which promotes and helps amateur video games providing a set of tutorials and a strong IRC community to teach people how to create simple games.
 
 ## Skills
+* Android
 * Artificial Intelligence
 * Bluetooth Protocol Layer 1-4
 * C
