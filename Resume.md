@@ -11,7 +11,7 @@ Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 Monday August 24 2009 to Saturday September 12 2009
 
 ### Ecole Centrale d'Electronique @ Paris
-Thursday September 06 2007 to now
+Thursday September 06 2007 to Friday October 29 2010
 
 Embedded System Expertise
 
