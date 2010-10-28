@@ -1,5 +1,12 @@
 # Changelog
 
+## VHDL Web Server
+Friday January 29 2010
+
+Without any CPU. Only some NANDs and some NORs.
+
+[Youtube: VHDL Web Server](http://youtu.be/7syu5EC1OWg)
+
 ## Paris Warzone, life-size and real-time MMORTG for Android phones
 Friday November 06 2009
 
@@ -383,3 +390,4 @@ Wednesday September 02 1987
 * [Dream in Progress old website](http://web.archive.org/web/20050208074646/http://www.zonealta.net/~GawenA/)
 * [Dream in Progress Official annonce](http://www.journal-officiel.gouv.fr/association/index.php?ACTION=Rechercher&HI_PAGE=1&HI_COMPTEUR=0&original_method=get&WHAT=dream+in+progress&JTH_ID=&JAN_BD_CP=&JRE_ID=Provence-Alpes-C%F4te-d%27Azur%2FBouches-du-Rhone&JAN_LIEU_DECL=Prefecture%2Fbouchesrh%F4ne&JTY_ID=&JTY_WALDEC=&JTY_SIREN=&JPA_D_D=07%2F02%2F2004&JPA_D_F=07%2F02%2F2004&rechercher.x=37&rechercher.y=10)
 * [Majority Report](http://www.majority-report.com/)
+* [Bull](http://www.bull.com/)

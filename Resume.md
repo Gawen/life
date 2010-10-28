@@ -35,6 +35,14 @@ Sunday April 11 2010 to now
 
 [Kitchbi](http://www.kitchbi.com/) is a social network for the family.
 
+### Hardware Developer Intern @ Bull
+Monday February 01 2010 to Wednesday September 01 2010
+
+I had to create a SystemRDL-to-Verilog compiler for Bull supercomputers.
+
+* Worked on hardware IP used in top 500 supercomputers built by Bull.
+* Developed a SystemRDL compiler from scratch to automatically generate IP front-controller (http://www.spiritconsortium.org/releases/SystemRDL)
+
 ### Developer @ Majority Report
 Wednesday January 21 2009 to Saturday August 01 2009
 
@@ -106,6 +114,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Embedded C
 * Embedded Linux
 * HTML
+* Intel CPU technology
 * Javascript
 * Language theory
 * Linux
@@ -125,6 +134,8 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Robotic
 * Ruby
 * SDL
+* Supercomputer Motherboard topology
+* SystemRDL
 * Thermodynamic
 * VHDL
 * VIM rules! EMacs suck!
