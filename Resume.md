@@ -2,9 +2,9 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 22
+Age: 23
 
-Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
+Location: [London, UK](https://maps.google.com/maps?q=London%2C+UK)
 
 ## Educations
 ### UC Irvine Management & Global Manufacturing Summer Courses
@@ -26,6 +26,11 @@ Monday July 11 2005 to now
 ## Experiences
 ### Freelance Back-End Developer @ Mondomix
 Friday July 16 2010 to now
+
+
+I developed all the softwares of the museum, except the Android UI and the huge touchscreen.
+
+[Youtube: Black Music Museum in Dakar, Senegal](http://youtu.be/xweL5dYyOYM)
 
 ### IT & Embedded System Freelancer
 Sunday April 11 2010 to now
