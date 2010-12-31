@@ -4,7 +4,7 @@
 
 Age: 23
 
-Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
+Location: [London, UK](https://maps.google.com/maps?q=London%2C+UK)
 
 ## Educations
 ### UC Irvine Management & Global Manufacturing Summer Courses
@@ -24,12 +24,23 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### Web Technology & Low-level Android Stack teacher @ ECE Paris
+Sunday October 10 2010 to Saturday January 01 2011
+
 ### Allmyapps Freelancer
 Tuesday October 05 2010 to now
 
 * Build an expert system which detects new versions of application and help human to integrate them in the Allmyapps' catalogue.
 * Developed an internal tool making able non-tech people to create Web scrapper.
 * Optimization of some company's internal processes developing custom helper tools.
+
+### Freelance Back-End Developer @ Mondomix
+Friday July 16 2010 to Saturday January 01 2011
+
+
+I developed all the softwares of the museum, except the Android UI and the huge touchscreen.
+
+[Youtube: Black Music Museum in Dakar, Senegal](http://youtu.be/xweL5dYyOYM)
 
 ### IT & Embedded System Freelancer
 Sunday April 11 2010 to now
@@ -38,6 +49,14 @@ Sunday April 11 2010 to now
 Sunday April 11 2010 to now
 
 [Kitchbi](http://www.kitchbi.com/) is a social network for the family.
+
+### Hardware Developer Intern @ Bull
+Monday February 01 2010 to Wednesday September 01 2010
+
+I had to create a SystemRDL-to-Verilog compiler for Bull supercomputers.
+
+* Worked on hardware IP used in top 500 supercomputers built by Bull.
+* Developed a SystemRDL compiler from scratch to automatically generate IP front-controller (http://www.spiritconsortium.org/releases/SystemRDL)
 
 ### Developer @ Majority Report
 Wednesday January 21 2009 to Saturday August 01 2009
@@ -99,6 +118,7 @@ Thursday June 20 2002 to now
 The [Games Creators Network](http://www.games-creators.org/) is a French association and website which promotes and helps amateur video games providing a set of tutorials and a strong IRC community to teach people how to create simple games.
 
 ## Skills
+* Android
 * Artificial Intelligence
 * Bluetooth Protocol Layer 1-4
 * C
@@ -109,6 +129,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Embedded C
 * Embedded Linux
 * HTML
+* Intel CPU technology
 * Javascript
 * Language theory
 * Linux
@@ -128,6 +149,8 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Robotic
 * Ruby
 * SDL
+* Supercomputer Motherboard topology
+* SystemRDL
 * Thermodynamic
 * VHDL
 * VIM rules! EMacs suck!
