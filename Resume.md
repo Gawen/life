@@ -25,10 +25,10 @@ Monday July 11 2005 to now
 
 ## Experiences
 ### Web Technology & Low-level Android Stack teacher @ ECE Paris
-Sunday October 10 2010 to now
+Sunday October 10 2010 to Saturday January 01 2011
 
 ### Freelance Back-End Developer @ Mondomix
-Friday July 16 2010 to now
+Friday July 16 2010 to Saturday January 01 2011
 
 
 I developed all the softwares of the museum, except the Android UI and the huge touchscreen.
@@ -36,10 +36,10 @@ I developed all the softwares of the museum, except the Android UI and the huge 
 [Youtube: Black Music Museum in Dakar, Senegal](http://youtu.be/xweL5dYyOYM)
 
 ### IT & Embedded System Freelancer
-Sunday April 11 2010 to now
+Sunday April 11 2010 to Saturday January 01 2011
 
 ### Freelance Back-end Developer @ Kitchbi
-Sunday April 11 2010 to now
+Sunday April 11 2010 to Saturday January 01 2011
 
 [Kitchbi](http://www.kitchbi.com/) is a social network for the family.
 
