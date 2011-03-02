@@ -27,9 +27,10 @@ Monday July 11 2005 to now
 ### Web Technology & Low-level Android Stack teacher @ ECE Paris
 Sunday October 10 2010 to Saturday January 01 2011
 
-### Allmyapps Freelancer
+### Infrastructure Lead Developer @ Allmyapps
 Tuesday October 05 2010 to now
 
+![Avatar](http://gawen.me/life/images/allmyapps_avatar.png)
 * Build an expert system which detects new versions of application and help human to integrate them in the Allmyapps' catalogue.
 * Developed an internal tool making able non-tech people to create Web scrapper.
 * Optimization of some company's internal processes developing custom helper tools.
@@ -43,7 +44,7 @@ I developed all the softwares of the museum, except the Android UI and the huge 
 [Youtube: Black Music Museum in Dakar, Senegal](http://youtu.be/xweL5dYyOYM)
 
 ### IT & Embedded System Freelancer
-Sunday April 11 2010 to now
+Sunday April 11 2010 to Thursday March 03 2011
 
 ### Freelance Back-end Developer @ Kitchbi
 Sunday April 11 2010 to now
