@@ -137,6 +137,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Linux Driver
 * Linux Kernel
 * Management
+* Massive Web Scraping
 * Mathematics
 * Multi-node systems
 * OpenGL 1.2
@@ -157,6 +158,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * VIM rules! EMacs suck!
 * Video manipulation
 * Visual Basic
+* Win32 API
 * Work team
 * x86 Assembler
 
