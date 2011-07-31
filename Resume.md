@@ -4,7 +4,7 @@
 
 Age: 23
 
-Location: [London, UK](https://maps.google.com/maps?q=London%2C+UK)
+Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
 ### UC Irvine Management & Global Manufacturing Summer Courses
@@ -27,7 +27,7 @@ Monday July 11 2005 to now
 ### Web Technology & Low-level Android Stack teacher @ ECE Paris
 Sunday October 10 2010 to Saturday January 01 2011
 
-### Infrastructure Lead Developer @ Allmyapps
+### QA Engineer & Release Manager @ Allmyapps
 Tuesday October 05 2010 to now
 
 ![Avatar](http://gawen.me/life/images/allmyapps_avatar.png)
