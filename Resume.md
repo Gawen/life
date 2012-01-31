@@ -2,7 +2,7 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 23
+Age: 24
 
 Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
@@ -119,6 +119,7 @@ Thursday June 20 2002 to now
 The [Games Creators Network](http://www.games-creators.org/) is a French association and website which promotes and helps amateur video games providing a set of tutorials and a strong IRC community to teach people how to create simple games.
 
 ## Skills
+* .NET
 * Android
 * Artificial Intelligence
 * Bluetooth Protocol Layer 1-4
@@ -131,7 +132,9 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Embedded Linux
 * HTML
 * Intel CPU technology
+* IronPython
 * Javascript
+* Jython
 * Language theory
 * Linux
 * Linux Driver
@@ -139,6 +142,7 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Management
 * Massive Web Scraping
 * Mathematics
+* Micro-threading
 * Multi-node systems
 * OpenGL 1.2
 * PCI Express protocol
@@ -160,6 +164,8 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Visual Basic
 * Win32 API
 * Work team
+* ZMQ
+* libevent
 * x86 Assembler
 
 ## Free time
