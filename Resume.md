@@ -2,9 +2,9 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 23
+Age: 24
 
-Location: [London, UK](https://maps.google.com/maps?q=London%2C+UK)
+Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
 ### UC Irvine Management & Global Manufacturing Summer Courses
@@ -96,5 +96,6 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 ## Free time
 * Mathematics
 * Theater
+* Skyviding
 * Climbing
 

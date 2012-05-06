@@ -1,5 +1,14 @@
 # Changelog
 
+## Jump! Skyviding, best experience ever.
+Monday May 07 2012
+
+THIS is one of the best feeling in the world. Mix the feeling of absolute freedom and this pure adrenalin juice flowing in your veins. If you never tried this, I'm here to say "do not wait anymore and jump".
+
+![Yay](http://gawen.me/life/images/skydiving.jpg)
+
+[Youtube: Skydiver newbe - 6th jump](http://www.youtube.com/watch?v=NrP5J0gWW1U)
+
 ## VHDL Web Server
 Friday January 29 2010
 
