@@ -34,6 +34,7 @@ Tuesday October 05 2010 to now
 * Build an expert system which detects new versions of application and help human to integrate them in the Allmyapps' catalogue.
 * Developed an internal tool making able non-tech people to create Web scrapper.
 * Optimization of some company's internal processes developing custom helper tools.
+* Desktop developer (Qt, WebKit, ...)
 
 ### Freelance Back-End Developer @ Mondomix
 Friday July 16 2010 to Saturday January 01 2011
