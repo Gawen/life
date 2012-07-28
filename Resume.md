@@ -2,9 +2,9 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 23
+Age: 24
 
-Location: [London, UK](https://maps.google.com/maps?q=London%2C+UK)
+Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
 ### UC Irvine Management & Global Manufacturing Summer Courses
@@ -24,6 +24,9 @@ The classes preparatoires are a kind of special training courses of 2 years. Thi
 Monday July 11 2005 to now
 
 ## Experiences
+### CTO @ ForgetBox
+Saturday July 28 2012 to now
+
 ### Hardware Developer Intern @ Bull
 Monday February 01 2010 to Wednesday September 01 2010
 
