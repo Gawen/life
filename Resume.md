@@ -2,9 +2,9 @@
 
 [Full version here](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
 
-Age: 23
+Age: 25
 
-Location: [London, UK](https://maps.google.com/maps?q=London%2C+UK)
+Location: [Paris, France](https://maps.google.com/maps?q=Paris%2C+France)
 
 ## Educations
 ### UC Irvine Management & Global Manufacturing Summer Courses
@@ -26,6 +26,15 @@ Monday July 11 2005 to now
 ## Experiences
 ### Web Technology & Low-level Android Stack teacher @ ECE Paris
 Sunday October 10 2010 to Saturday January 01 2011
+
+### QA Engineer & Release Manager @ Allmyapps
+Tuesday October 05 2010 to now
+
+![Avatar](http://gawen.me/life/images/allmyapps_avatar.png)
+* Build an expert system which detects new versions of application and help human to integrate them in the Allmyapps' catalogue.
+* Developed an internal tool making able non-tech people to create Web scrapper.
+* Optimization of some company's internal processes developing custom helper tools.
+* Desktop developer (Qt, WebKit, ...)
 
 ### Freelance Back-End Developer @ Mondomix
 Friday July 16 2010 to Saturday January 01 2011
@@ -111,6 +120,7 @@ Thursday June 20 2002 to now
 The [Games Creators Network](http://www.games-creators.org/) is a French association and website which promotes and helps amateur video games providing a set of tutorials and a strong IRC community to teach people how to create simple games.
 
 ## Skills
+* .NET
 * Android
 * Artificial Intelligence
 * Bluetooth Protocol Layer 1-4
@@ -123,13 +133,17 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * Embedded Linux
 * HTML
 * Intel CPU technology
+* IronPython
 * Javascript
+* Jython
 * Language theory
 * Linux
 * Linux Driver
 * Linux Kernel
 * Management
+* Massive Web Scraping
 * Mathematics
+* Micro-threading
 * Multi-node systems
 * OpenGL 1.2
 * PCI Express protocol
@@ -149,7 +163,10 @@ The [Games Creators Network](http://www.games-creators.org/) is a French associa
 * VIM rules! EMacs suck!
 * Video manipulation
 * Visual Basic
+* Win32 API
 * Work team
+* ZMQ
+* libevent
 * x86 Assembler
 
 ## Free time
