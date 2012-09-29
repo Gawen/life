@@ -381,6 +381,9 @@ Wednesday September 02 1987
 :-)
 
 # Useful links
+* [Le Camping Demo Days London](https://www.facebook.com/media/set/?set=a.485300741509568.106600.128085203897792&type=1)
+* [Le Camping Demo Days Berlin](https://www.facebook.com/media/set/?set=a.481373315235644.105550.128085203897792&type=3)
+* [Le Camping Demo Days Paris](https://www.facebook.com/media/set/?set=a.478831638823145.104804.128085203897792&type=3)
 * [ForgetBox](http://www.forgetbox.com/)
 * [Prologin 2005](http://www.prologin.org/archives/2005/finale)
 * [DevKitAdv for GameBoy Advance](http://devkitadv.sourceforge.net/)
