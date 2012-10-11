@@ -1,5 +1,10 @@
 # Changelog
 
+## ForgetBox, here we go buddy!
+Friday October 12 2012
+
+![Séverin & Gawen](http://gawen.me/life/images/sevgaw.jpg)
+
 ## Jump! Skyviding, best experience ever.
 Monday May 07 2012
 
