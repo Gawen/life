@@ -401,3 +401,8 @@ Wednesday September 02 1987
 * [Le leopard casque](http://le.leopard.casque.free.fr/)
 * [Bull](http://www.bull.com/)
 * [ECE Paris](http://www.ece.fr/)
+* [Junior Entreprise of ECE](http://jeece.fr/)
+* [LinkedIn](http://www.linkedin.com/pub/gawen-arab/5/ab7/2a8)
+* [Uacari](http://www.linkedin.com/company/uacari)
+* [Majority Report](http://www.majority-report.com/)
+* [AllMyApps](http://www.allmyapps.com/)
