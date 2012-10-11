@@ -28,7 +28,7 @@ Monday July 11 2005 to now
 Sunday October 10 2010 to Saturday January 01 2011
 
 ### QA Engineer & Release Manager @ Allmyapps
-Tuesday October 05 2010 to now
+Tuesday October 05 2010 to Friday October 12 2012
 
 ![Avatar](http://gawen.me/life/images/allmyapps_avatar.png)
 * Build an expert system which detects new versions of application and help human to integrate them in the Allmyapps' catalogue.
